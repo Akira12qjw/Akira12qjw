@@ -10,7 +10,7 @@
 
 
 ### 📂 Featured Projects
--[ShopeeClone](https://github.com/Akira12qjw/Web-Shopee.git): Website bán hàng
+-[ShopeeClone](https://github.com/Akira12qjw/Web-Shopee.git): Website bán hàng<br/>
 -[JobNow](https://github.com/Akira12qjw/JobNow.git) Website tìm việc làm
 
 # 📊 GitHub Stats:
