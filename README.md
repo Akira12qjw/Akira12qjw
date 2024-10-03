@@ -10,7 +10,7 @@
 
 
 ### 📂 Featured Projects
--[ShopeeClone](https://github.com/yourusername/project1](https://github.com/Akira12qjw/Web-Shopee.git)
+-[ShopeeClone](https://github.com/Akira12qjw/Web-Shopee.git)
 
 
 # 📊 GitHub Stats:
