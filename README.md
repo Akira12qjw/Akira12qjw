@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trịnh Trường Giang</h1>
-<h3 align="center"> I am a fullstack software developer </h3>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/makira.akira.545/) 
 
