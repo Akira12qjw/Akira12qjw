@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Trịnh Trường Giang</h1>
+<h3 align="center"> My ambition become a full-stack developer.</h3>
+- ⚡ Fun fact: " I think, i fun "
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/makira.akira.545/) 
