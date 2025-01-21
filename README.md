@@ -10,8 +10,9 @@
 
 
 ### 📂 Featured Projects
--[ShopeeClone](https://github.com/Akira12qjw/Web-Shopee.git): Website bán hàng<br/>
--[JobNow](https://github.com/Akira12qjw/JobNow.git): Website tìm việc làm
+-[AutoSpace](https://github.com/Akira12qjw/AutoSpace.git): Find and rent garages on the map<br/>
+-[ShopeeClone](https://github.com/Akira12qjw/Web-Shopee.git): Ecommerce<br/>
+-[JobNow](https://github.com/Akira12qjw/JobNow.git): Find Job
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Akira12qjw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
