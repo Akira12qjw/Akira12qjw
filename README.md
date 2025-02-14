@@ -2,6 +2,8 @@
 <h3 align="center"> My ambition become a full-stack developer.</h3>
 - ⚡ Fun fact: " I think, i fun "
 
+![](https://drive.google.com/file/d/1zltE1HmyN_rmjFlUMr-HtEI92cudAUqE/view?usp=drive_link)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/makira.akira.545/) 
 
